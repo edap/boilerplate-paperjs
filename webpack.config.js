@@ -4,8 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const PUBLIC = __dirname + "/www";
-const TITLE = "Example Title";
-
+const TITLE = "PaperJS Boilerplate";
 
 const plugins = [
         // create an html page
