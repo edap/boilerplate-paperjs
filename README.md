@@ -1,4 +1,4 @@
-This boilerplate combines [webpack](https://webpack.js.org/) and [paperjs](http://paperjs.org/)
+This boilerplate combines [webpack](https://webpack.js.org/) and [paperjs](http://paperjs.org/) through [paperJS loader](https://github.com/aprowe/paper-loader)
 
 ### Installation
 clone this respository, then run `yarn install`
