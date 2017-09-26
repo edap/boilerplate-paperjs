@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-paperjs",
+  "version": "1.0.0",
+  "description": "boilerplate for paperjs",
+  "main": "src/application.js",
+  "repository": "https://github.com/edap/boilerplate-paperjs",
+  "author": "Davide Prati",
+  "scripts": {
+    "start": "webpack-dev-server --port 8000",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "clean-webpack-plugin": "^0.1.16",
+    "copy-webpack-plugin": "^4.0.1",
+    "html-webpack-plugin": "^2.30.1",
+    "paper": "^0.11.4",
+    "paper-loader": "^0.1.2",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "webpack-dev-server": "^2.8.2"
+  }
+}
